@@ -1,1 +1,5 @@
-- 
+- Best known form of computing
+- Emphasis on delivering good performance to a single user at low cost
+- Usually able to execute third-party software (also called shrink-wrap software)
+- One of the largest markets for computers
+- Usually includes graphics display, keyboard, mouse
