@@ -10,4 +10,5 @@ type: notes
 * Human Genome Project
 	* Computer equipment used to map and analyze human DNA sequences costing in the range of millions of dollars
 * World Wide Web
-# Classes of Computing Applications and Their Charactaristics
+# Classes of Computing Applications and Their Characteristics
+* 
