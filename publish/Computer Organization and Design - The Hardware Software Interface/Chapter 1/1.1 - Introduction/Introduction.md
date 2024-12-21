@@ -1,3 +1,6 @@
+---
+type: notes
+---
 # Notable Past Innovations
 * Automatic Teller Machines
 	- Computer placed in wall to distribute/collect cash
