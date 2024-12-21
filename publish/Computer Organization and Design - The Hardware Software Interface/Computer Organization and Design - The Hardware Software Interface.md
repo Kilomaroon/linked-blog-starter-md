@@ -3,6 +3,7 @@ title: "Computer Organization and Design - The Hardware Software Interface: Tabl
 tags:
   - hard-soft-interface-textbook
 year: "2024"
+type: table-of-contents
 ---
 # [[Computer Abstractions and Technology]]
 
