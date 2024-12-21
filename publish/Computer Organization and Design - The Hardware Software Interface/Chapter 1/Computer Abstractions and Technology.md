@@ -13,3 +13,7 @@ type: table-of-contents
 # [[Fallacies and Pitfalls]]
 
 # [[Concluding Remarks]]
+
+# [[Historical Perspective]]
+
+# [[Excercises]]
