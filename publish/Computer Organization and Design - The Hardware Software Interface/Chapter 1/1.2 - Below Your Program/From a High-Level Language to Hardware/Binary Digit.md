@@ -1,1 +1,1 @@
-Also called a bit. 0 or 1
+Also called a bit. 0 or 1. These two binary digits correspond to the on/off or high/low states of a component.

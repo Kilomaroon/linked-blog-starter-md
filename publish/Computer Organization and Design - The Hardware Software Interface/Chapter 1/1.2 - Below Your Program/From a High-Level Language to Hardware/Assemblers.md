@@ -1,0 +1,1 @@
+A program which translates a symbolic version of instructions into the [[Binary Digit]] version. The symbolic version of instructions is known as [[Assembly Language]]. 

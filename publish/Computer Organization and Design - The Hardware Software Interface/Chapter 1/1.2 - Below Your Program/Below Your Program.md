@@ -6,4 +6,8 @@ Computers, at the hardware level, can only execute extremely simple low-level in
 - [[Operating System]]
 - [[Compilers]]
 
-# 
+# From a High-Level Language to the Language of Hardware
+- [[Binary Digit]]
+- [[Assemblers]]
+- [[Assembly Language]]
+- [[High-Level Programming Language]]
