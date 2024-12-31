@@ -1,0 +1,1 @@
+Determines how fast IO operations may be executed - see [[Storage, Networks, and Other Peripherals]]

@@ -1,0 +1,1 @@
+Determines the number of machine instructions for each source-level statement - see [[Instructions - Language of the Computer]] and [[Arithmetic for Computers]]

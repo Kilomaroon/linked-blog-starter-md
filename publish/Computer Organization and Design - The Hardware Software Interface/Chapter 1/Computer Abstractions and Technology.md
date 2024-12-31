@@ -2,7 +2,7 @@
 title: Computer Abstractions and Technology
 type: table-of-contents
 ---
-# [[Introduction]]
+# [[Computer Organization and Design - The Hardware Software Interface - Introduction]]
 
 # [[Below Your Program]]
 

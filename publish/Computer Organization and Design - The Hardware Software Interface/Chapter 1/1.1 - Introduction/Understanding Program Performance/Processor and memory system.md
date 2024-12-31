@@ -1,0 +1,1 @@
+Determines how fast instructions can be executed - see [[The Processor - Datapath and Control]], [[Enhancing Performance with Pipelining]], and [[Large and Fast - Exploiting Memory Hierarchy]]

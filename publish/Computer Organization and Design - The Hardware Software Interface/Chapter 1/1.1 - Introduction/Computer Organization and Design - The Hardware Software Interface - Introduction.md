@@ -12,8 +12,15 @@ type: notes
 * World Wide Web
 
 ![[The number of distinct processors sold 1998-2002.png]]
+![[microprocessor sales 1998-2002.png]]
 # Classes of Computing Applications and Their Characteristics
 * [[Desktop Computers]]
 * [[Servers]]
 * [[Embedded Computers]]
 * [[Supercomputers]]
+
+# Understanding Program Performance
+- [[Algorithm]]
+- [[IO system]]
+- [[Processor and memory system]]
+- [[Programming language, compiler, and architecture]]
