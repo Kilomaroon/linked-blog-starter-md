@@ -10,6 +10,10 @@ type: notes
 * Human Genome Project
 	* Computer equipment used to map and analyze human DNA sequences costing in the range of millions of dollars
 * World Wide Web
+
+![[The number of distinct processors sold 1998-2002.png]]
 # Classes of Computing Applications and Their Characteristics
-*  [[Desktop Computers]]
+* [[Desktop Computers]]
 * [[Servers]]
+* [[Embedded Computers]]
+* [[Supercomputers]]

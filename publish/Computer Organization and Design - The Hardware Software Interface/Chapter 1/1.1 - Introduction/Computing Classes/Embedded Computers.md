@@ -1,0 +1,2 @@
+- a computer inside another device used for running one predetermined application or collection of software
+- largest class of computers, spanning a wide range of applications

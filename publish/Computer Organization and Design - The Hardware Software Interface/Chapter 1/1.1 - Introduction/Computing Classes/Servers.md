@@ -1,0 +1,3 @@
+- the modern form of what was once mainframes, minicomputers, and supercomputers
+- used for running larger programs for multiple users often simultaneously and typically accessed only via a network
+- more in [[Assessing and Understanding Performance]]
