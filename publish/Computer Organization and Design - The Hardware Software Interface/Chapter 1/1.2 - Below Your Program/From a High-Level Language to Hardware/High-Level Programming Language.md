@@ -1,1 +1,1 @@
-A portable language such as C, Fortran, or Java composed of words and algebraic notation that can be translated by a compiler into [[Assembly Language]].
+A portable language such as C, Fortran, or Java composed of words and algebraic notation that can be translated by a [[Compiler]] into [[Assembly Language]].
