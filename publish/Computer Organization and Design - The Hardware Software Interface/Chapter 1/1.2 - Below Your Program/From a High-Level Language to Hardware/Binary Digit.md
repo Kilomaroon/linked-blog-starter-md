@@ -1,0 +1,1 @@
+Also called a bit. 0 or 1
